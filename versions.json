@@ -1,0 +1,20 @@
+{
+  "hjb_billing": {
+    "version": "1.0.2",
+    "changelog": [
+      "Files to update",
+      "Bridge Folder",
+      "ReadMe",
+      "FxManifest",
+      "server folder"
+    ],
+    "download": "https://portal.cfx.re/assets/granted-assets?search=hjb_billing"
+  },
+  "hjb-vipstorage": {
+    "version": "1.0.0",
+    "changelog": [
+      "Initial release"
+    ],
+    "download": "https://portal.cfx.re/assets/granted-assets?search=hjb-vipstorage"
+  }
+}
