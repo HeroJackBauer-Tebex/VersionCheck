@@ -1,12 +1,11 @@
 {
   "hjb_billing": {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "changelog": [
       "Files to update",
-      "Bridge Folder",
-      "ReadMe",
-      "FxManifest",
-      "server folder"
+      "server/main.lua",
+      "fxmanifest.lua"
+
     ],
     "download": "https://portal.cfx.re/assets/granted-assets?search=hjb_billing"
   },
