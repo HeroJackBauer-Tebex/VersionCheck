@@ -1,9 +1,9 @@
 {
   "hjb_billing": {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "changelog": [
       "Files to update",
-      "server/main.lua",
+      "server folder",
       "fxmanifest.lua"
 
     ],
